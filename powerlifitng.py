@@ -35,3 +35,6 @@ bottom4_weeks = block[:4]
 print("Calculated Training Weights for a 3x2 Lower set:")
 for i, week in enumerate(bottom4_weeks, start=1):
     print(f"Week {i}: {week}")
+
+input("Press Enter to close...")
+
